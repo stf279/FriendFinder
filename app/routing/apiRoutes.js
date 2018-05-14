@@ -1,1 +1,3 @@
 var tableFriends = require("../data/friends");
+
+//Still need to create the APIs for POST and GET in this file...

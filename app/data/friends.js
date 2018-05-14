@@ -1,3 +1,5 @@
+// I didn't get the chance to finish this up, still need toget pics for each friend, and modify the answers for the compare after they were done
+
 var friends = [{
     "name":"The Ranger",
     "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
